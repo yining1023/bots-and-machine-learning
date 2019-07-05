@@ -1,13 +1,13 @@
 ## Bots and Machine Learning
 
-### Syllabus for Bots and Machine Learning at The School of Machines, Making & Make Believe
+Syllabus for Bots and Machine Learning at The School of Machines, Making & Make Believe
 
-#### Twitter bot
+### 1. Twitter bot
 Tweet text and image
-Code: ./twitterbot
+[Code](./twitterbot)
 
-#### Image Classifier
-## Presentation: [Slides](https://docs.google.com/presentation/d/1s0iT382Pl1DMGKb5xhk7_V3DlW1QQHfHs4snNoS_sIU/edit?usp=sharing)
+### 2. Image Classifier
+Presentation: [Slides](https://docs.google.com/presentation/d/1s0iT382Pl1DMGKb5xhk7_V3DlW1QQHfHs4snNoS_sIU/edit?usp=sharing)
 - What’s Artificial Intelligence, Machine Learning, Deep learning?
 - Supervised Learning, Unsupervised Learning, Reinforcement Learning
 - Machine Learning output types: Regression, Classification, Clustering, Sequence prediction
@@ -16,5 +16,5 @@ Code: ./twitterbot
 - Introduction to ml5.js, tf.js, examples, experiments, datasets
 
 Image Classifier with ml5.js
-Code: 
+[Code](./ImageClassification)
 
