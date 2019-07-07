@@ -4,7 +4,7 @@ Syllabus for Bots and Machine Learning at The School of Machines, Making & Make 
 
 ### 1. Twitter bot
 Tweet text and image
-[Code](./twitterbot)
+[Code](./twitterbot/twitterbot_image)
 
 ### 2. Image Classifier
 Presentation: [Slides](https://docs.google.com/presentation/d/1s0iT382Pl1DMGKb5xhk7_V3DlW1QQHfHs4snNoS_sIU/edit?usp=sharing)
