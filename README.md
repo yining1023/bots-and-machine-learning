@@ -18,3 +18,6 @@ Presentation: [Slides](https://docs.google.com/presentation/d/1s0iT382Pl1DMGKb5x
 Image Classifier with ml5.js
 [Code](./ImageClassification)
 
+### 3. Twiiter bot + MobileNet
+Nodejs + tfjs-node: Twitter bot tweet the mobileNet result of an image
+[Code](./twitterbot/twitterbot_mobileNet)
