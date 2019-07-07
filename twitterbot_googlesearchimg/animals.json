@@ -1,0 +1,3684 @@
+[
+  {
+    "common name": "Atlas wild ass",
+    "scientific name": "Equus africanus atlanticus",
+    "extinction_date": 300,
+    "range": "North Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Canary Islands giant rat",
+    "scientific name": "Canariomys bravoi and Canariomys tamarani",
+    "extinction_date": 1500,
+    "range": "Spain (Canary Islands)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Giant aye-aye",
+    "scientific name": "Daubentonia robusta",
+    "extinction_date": 1000,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Giant fossa",
+    "scientific name": "Cryptoprocta spelea",
+    "extinction_date": 1400,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Hipposideros besaoka",
+    "scientific name": "The largest insectivorous bat of Madagascar",
+    "extinction_date": "10,000 BC",
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Koala lemur",
+    "scientific name": "Megaladapis sp.",
+    "extinction_date": 1420,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Lava mouse",
+    "scientific name": "Malpaisomys insularis",
+    "extinction_date": 1500,
+    "range": "Spain (Canary Islands)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Bibymalagasy",
+    "scientific name": "Plesiorycteropus sp.",
+    "extinction_date": "200 BC",
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Malagasy hippopotamus",
+    "scientific name": "Hippopotamus sp.",
+    "extinction_date": 1000,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Megalotragus sp.",
+    "scientific name": "Very large bovids",
+    "extinction_date": "10,000 BC",
+    "range": "Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Microgale macpheei",
+    "scientific name": "Type of shrew tenrec",
+    "extinction_date": 100,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "North African elephant",
+    "scientific name": "Loxodonta africana pharaoensis",
+    "extinction_date": 300,
+    "range": "North Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Pelorovis sp.",
+    "scientific name": "Very large, African buffalo-like bovid",
+    "extinction_date": "2000 BC",
+    "range": "Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Sivatherium sp.",
+    "scientific name": "Large, okapi-like giraffid",
+    "extinction_date": "6000 BC",
+    "range": "Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Atlas bear",
+    "scientific name": "Ursus arctos crowtheri",
+    "extinction_date": 1870,
+    "range": "North Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Aurochs",
+    "scientific name": "Bos primigenius",
+    "extinction_date": "",
+    "range": "North Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Aurochs",
+    "scientific name": "Bos primigenius",
+    "extinction_date": 1627,
+    "range": "Europe",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Bluebuck",
+    "scientific name": "Hippotragus leucophaeus",
+    "extinction_date": 1799,
+    "range": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Bubal hartebeest",
+    "scientific name": "Alcelaphus buselaphus buselaphus",
+    "extinction_date": 1925,
+    "range": "North Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Cape lion",
+    "scientific name": "Panthera leo melanochaitus",
+    "extinction_date": 1876,
+    "range": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Cape serval",
+    "scientific name": "Leptailurus serval serval",
+    "extinction_date": "",
+    "range": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Cape warthog",
+    "scientific name": "Phacochoerus aethiopicus aethiopicus",
+    "extinction_date": 1871,
+    "range": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Kenya oribi",
+    "scientific name": "Ourebia ourebi kenyae",
+    "extinction_date": "",
+    "range": "Kenya",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Large sloth lemur",
+    "scientific name": "Palaeopropithecus sp.",
+    "extinction_date": 1500,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Lesser Mascarene flying fox",
+    "scientific name": "Pteropus subniger",
+    "extinction_date": 1873,
+    "range": "Mauritius and France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Quagga",
+    "scientific name": "Equus quagga quagga",
+    "extinction_date": 1883,
+    "range": "Namibia and South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Red gazelle",
+    "scientific name": "Eudorcas rufinaa",
+    "extinction_date": 1894,
+    "range": "Algeria",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Robert's lechwe",
+    "scientific name": "Kobus leche robertsi",
+    "extinction_date": "",
+    "range": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Western black rhinoceros",
+    "scientific name": "Diceros bicornis longipes",
+    "extinction_date": 1996,
+    "range": "Cameroon",
+    "continent": "Africa"
+  },
+  {
+    "common name": "De Winton's golden mole",
+    "scientific name": "Cryptochloris wintoni",
+    "extinction_date": 1907,
+    "range": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Ethiopian amphibious rat",
+    "scientific name": "Nilopegamys plumbeus",
+    "extinction_date": 1927,
+    "range": "Ethiopia",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Wimmer's shrew",
+    "scientific name": "Crocidura wimmeri",
+    "extinction_date": 1976,
+    "range": "Côte d'Ivoire",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Alaotra grebe",
+    "scientific name": "Tachybaptus rufolavatus",
+    "extinction_date": 1985,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Aldabra brush-warbler",
+    "scientific name": "Nesillas aldabrana",
+    "extinction_date": 1983,
+    "range": "Seychelles",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Ascension flightless crake",
+    "scientific name": "Mundia elpenor",
+    "extinction_date": 1656,
+    "range": "United Kingdom (Ascension)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Ascension night heron",
+    "scientific name": "Nycticorax olsoni",
+    "extinction_date": 1600,
+    "range": "United Kingdom (Ascension)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Broad-billed parrot",
+    "scientific name": "Lophopsittacus mauritianus",
+    "extinction_date": 1680,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Canary Islands oystercatcher",
+    "scientific name": "Haematopus meadewaldoi",
+    "extinction_date": 1940,
+    "range": "Spain (Canary Islands)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Canary Islands quail",
+    "scientific name": "Coturnix gomerae",
+    "extinction_date": "",
+    "range": "Spain (Canary Islands)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Delalande's coua",
+    "scientific name": "Coua delalandei",
+    "extinction_date": 1834,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Dodo",
+    "scientific name": "Raphus cucullatus",
+    "extinction_date": 1662,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Eastern Canary Islands chiffchaff",
+    "scientific name": "Phylloscopus canariensis exsul",
+    "extinction_date": 1986,
+    "range": "Spain (Canary Islands)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Elephant bird",
+    "scientific name": "Aepyornis sp.",
+    "extinction_date": 1600,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Lagrand's ground roller",
+    "scientific name": "Brachypteracias lagrandi",
+    "extinction_date": "",
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Large Saint Helena petrel",
+    "scientific name": "Pseudobulweria rupinarum",
+    "extinction_date": 1700,
+    "range": "United Kingdom (Saint Helena)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Madeiran wood pigeon",
+    "scientific name": "Columba palumbus maderensis",
+    "extinction_date": 1924,
+    "range": "Portugal (Madeira)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mascarene coot",
+    "scientific name": "Fulica newtoni",
+    "extinction_date": 1700,
+    "range": "Mauritius and France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mascarene grey parakeet",
+    "scientific name": "Psittacula bensoni",
+    "extinction_date": 1764,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mascarene parrot",
+    "scientific name": "Mascarinus mascarinus",
+    "extinction_date": 1834,
+    "range": "France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritian duck",
+    "scientific name": "Anas theodori",
+    "extinction_date": 1690,
+    "range": "Mauritius and France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritian shelduck",
+    "scientific name": "Alopochen mauritianus",
+    "extinction_date": 1690,
+    "range": "Mauritius and France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritius blue pigeon",
+    "scientific name": "Alectroenas nitidissimus",
+    "extinction_date": 1830,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritius grey parrot",
+    "scientific name": "Psittacula bensoni",
+    "extinction_date": 1764,
+    "range": "Mauritius and France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritius night-heron",
+    "scientific name": "Nycticorax mauritianus",
+    "extinction_date": 1690,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritius owl",
+    "scientific name": "Mascarenotus sauzieri",
+    "extinction_date": 1850,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritius starling",
+    "scientific name": "Cryptopsar ischyrhynchus",
+    "extinction_date": "",
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Newton's parakeet",
+    "scientific name": "Psittacula exsul",
+    "extinction_date": 1875,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Red rail",
+    "scientific name": "Aphanapteryx bonasia",
+    "extinction_date": 1700,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion flightless ibis",
+    "scientific name": "Threskiornis solitarius",
+    "extinction_date": 1700,
+    "range": "France (Réunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion gallinule",
+    "scientific name": "Porphyrio coerulescens",
+    "extinction_date": 1730,
+    "range": "France (Réunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion kestrel",
+    "scientific name": "Falco duboisi",
+    "extinction_date": 1700,
+    "range": "France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion night-heron",
+    "scientific name": "Nycticorax duboisi",
+    "extinction_date": 1700,
+    "range": "France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion owl",
+    "scientific name": "Mascarenotus grucheti",
+    "extinction_date": 1700,
+    "range": "France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion pigeon",
+    "scientific name": "Nesoenas duboisi",
+    "extinction_date": 1705,
+    "range": "France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion shelduck",
+    "scientific name": "Mascarenachen kervazoi",
+    "extinction_date": 1690,
+    "range": "France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion starling",
+    "scientific name": "Fregilupus varius",
+    "extinction_date": 1850,
+    "range": "France (Réunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues night-heron",
+    "scientific name": "Nycticorax megacephalus",
+    "extinction_date": 1750,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues owl",
+    "scientific name": "Mascarenotus murivorus",
+    "extinction_date": 1750,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues parrot",
+    "scientific name": "Necropsittacus rodericanus",
+    "extinction_date": 1750,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues rail",
+    "scientific name": "Erythromachus leguati",
+    "extinction_date": 1750,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues solitaire",
+    "scientific name": "Pezophaps solitaria",
+    "extinction_date": 1778,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues starling",
+    "scientific name": "Necropsar rodericanus",
+    "extinction_date": 1750,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Saint Helena crake",
+    "scientific name": "Porzana astrictocarpus",
+    "extinction_date": 1600,
+    "range": "United Kingdom (Saint Helena)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Saint Helena cuckoo",
+    "scientific name": "Nannococcyx psix",
+    "extinction_date": 1700,
+    "range": "United Kingdom (Saint Helena)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Saint Helena dove",
+    "scientific name": "Dysmoropelia dekarchiskos",
+    "extinction_date": 1502,
+    "range": "United Kingdom (Saint Helena)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Saint Helena hoopoe",
+    "scientific name": "Upupa antaios",
+    "extinction_date": 1500,
+    "range": "United Kingdom (Saint Helena)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Saint Helena rail",
+    "scientific name": "Porzana astrictocarpus",
+    "extinction_date": 1502,
+    "range": "United Kingdom (Saint Helena)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Seychelles parakeet",
+    "scientific name": "Psittacula wardis",
+    "extinction_date": 1886,
+    "range": "Seychelles",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Small Saint Helena petrel",
+    "scientific name": "Bulweria bifax",
+    "extinction_date": 1502,
+    "range": "United Kingdom (Saint Helena)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Tristan moorhen",
+    "scientific name": "Gallinula nesiotis",
+    "extinction_date": 1800,
+    "range": "United Kingdom (Tristan da Cunha)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Voay robustus",
+    "scientific name": "",
+    "extinction_date": 100,
+    "range": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Cape Verde giant skink",
+    "scientific name": "Macroscincus coctei",
+    "extinction_date": 1920,
+    "range": "Cape Verde",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Domed Mauritius giant tortoise",
+    "scientific name": "Cylindraspis triserrata",
+    "extinction_date": 1700,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Domed Rodrigues giant tortoise",
+    "scientific name": "Cylindraspis peltastes",
+    "extinction_date": 1800,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Eastwood's long-tailed seps",
+    "scientific name": "Tetradactylus eastwoodae",
+    "extinction_date": 1912,
+    "range": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Hoffstetter's worm snake",
+    "scientific name": "Typhlops cariei",
+    "extinction_date": "",
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mauritian giant skink",
+    "scientific name": "Didosaurus maurtianus",
+    "extinction_date": 1650,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Mozambique centipede-eater",
+    "scientific name": "Aparallactus nigriceps",
+    "extinction_date": "",
+    "range": "Mozambique",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Réunion giant tortoise",
+    "scientific name": "Cylindraspis indica",
+    "extinction_date": 1840,
+    "range": "France (Reunion)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues day gecko",
+    "scientific name": "Phelsuma edwardnewtoni",
+    "extinction_date": 1917,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Rodrigues giant day gecko",
+    "scientific name": "Phelsuma gigas",
+    "extinction_date": 1842,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Roque Chico de Salmor giant lizard",
+    "scientific name": "Gallotia simonyi simonyi",
+    "extinction_date": 1930,
+    "range": "Spain (Canary Islands)",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Round Island burrowing boa",
+    "scientific name": "Bolyeria multocarinata",
+    "extinction_date": 1975,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Saddle-backed Mauritius giant tortoise",
+    "scientific name": "Cylindraspis inepta",
+    "extinction_date": 1700,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Saddle-backed Rodrigues giant tortoise",
+    "scientific name": "Cylindraspis vosmaeri",
+    "extinction_date": 1800,
+    "range": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Du Toit's torrent frog",
+    "scientific name": "Arthroleptides dutoiti",
+    "extinction_date": 1962,
+    "range": "Kenya",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Osgood's Ethiopian toad",
+    "scientific name": "Altiphrynoides osgoodi",
+    "extinction_date": 2003,
+    "range": "Ethiopia",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Togo slippery frog",
+    "scientific name": "Conraua derooi",
+    "extinction_date": "",
+    "range": "Ghana and Togo",
+    "continent": "Africa"
+  },
+  {
+    "common name": "Smilodon",
+    "scientific name": "Smilodon populator",
+    "extinction_date": "10,000 BC",
+    "range": "Northern South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Antifer",
+    "scientific name": "Antifer crassus",
+    "extinction_date": "11,000 BC",
+    "range": "Argentina, Brazil and Chile",
+    "continent": "South America"
+  },
+  {
+    "common name": "Arctotherium",
+    "scientific name": "Arctotherium sp.",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Canis nehringi",
+    "scientific name": "",
+    "extinction_date": "8,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Cuvieronius",
+    "scientific name": "Cuvieronius sp.",
+    "extinction_date": "4,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Dire wolf",
+    "scientific name": "Canis dirus",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Catonyx",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Eremotherium",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Glossotherium",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Megatherium",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Nematherium",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Nothrotherium",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Scelidotherium",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Lestodon",
+    "scientific name": "",
+    "extinction_date": "6,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Doedicurus",
+    "scientific name": "",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Eleutherocercus",
+    "scientific name": "",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Glyptodon",
+    "scientific name": "",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Hoplophorus",
+    "scientific name": "",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Lomaphorus",
+    "scientific name": "",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Panochthus",
+    "scientific name": "",
+    "extinction_date": "11,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Hippidion",
+    "scientific name": "",
+    "extinction_date": "10,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Macrauchenia",
+    "scientific name": "Macrauchenia sp.",
+    "extinction_date": "10,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Neochoerus",
+    "scientific name": "Neochoerus sp.",
+    "extinction_date": "10,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Stegomastodon",
+    "scientific name": "Stegomastodon sp.",
+    "extinction_date": "10,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Stout-legged llama",
+    "scientific name": "Palaeolama mirifica",
+    "extinction_date": "10,000 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Theriodictis",
+    "scientific name": "Theriodictis sp.",
+    "extinction_date": "11,000 BC",
+    "range": "Bolivia, Brazil and Paraguay",
+    "continent": "South America"
+  },
+  {
+    "common name": "Toxodon",
+    "scientific name": "Toxodon sp.",
+    "extinction_date": "16,500 BC",
+    "range": "South America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Xenorhinotherium",
+    "scientific name": "Xenorhinotherium bahiensis",
+    "extinction_date": "10,000 BC",
+    "range": "Brazil and Venezuela",
+    "continent": "South America"
+  },
+  {
+    "common name": "Candango mouse",
+    "scientific name": "Juscelinomys candango",
+    "extinction_date": 1960,
+    "range": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "Caribbean monk seal",
+    "scientific name": "Monachus tropicalis",
+    "extinction_date": 1952,
+    "range": "Caribbean Sea",
+    "continent": "South America"
+  },
+  {
+    "common name": "Darwin's Galapagos mouse",
+    "scientific name": "Nesoryzomys darwini",
+    "extinction_date": 1929,
+    "range": "Ecuador (Galapagos Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Falkland Islands wolf",
+    "scientific name": "Dusicyon australis",
+    "extinction_date": 1876,
+    "range": "United Kingdom (Falkland Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Galápagos giant rat",
+    "scientific name": "Megaoryzomys curioi",
+    "extinction_date": "",
+    "range": "Ecuador (Galapagos Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Indefatigable Galapagos mouse",
+    "scientific name": "Nesoryzomys indefessus",
+    "extinction_date": 1930,
+    "range": "Ecuador (Galapagos Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Giant vampire bat",
+    "scientific name": "Desmodus draculae",
+    "extinction_date": "",
+    "range": "Bolivia, Brazil and Venezuela",
+    "continent": "South America"
+  },
+  {
+    "common name": "Peruvian viscacha",
+    "scientific name": "Lagostomus crassus",
+    "extinction_date": 1910,
+    "range": "Peru",
+    "continent": "South America"
+  },
+  {
+    "common name": "Red-bellied gracile opossum",
+    "scientific name": "Cryptonanus ignitus",
+    "extinction_date": 1962,
+    "range": "Argentina",
+    "continent": "South America"
+  },
+  {
+    "common name": "Vespucci's rodent",
+    "scientific name": "Noronhomys vespuccii",
+    "extinction_date": 1503,
+    "range": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "One-striped opossum",
+    "scientific name": "Monodelphis unistriata",
+    "extinction_date": 1899,
+    "range": "Argentina & Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "Pacific degu",
+    "scientific name": "Octodon pacificus",
+    "extinction_date": 1994,
+    "range": "Mocha Island, Chile",
+    "continent": "South America"
+  },
+  {
+    "common name": "Zuniga's dark rice rat",
+    "scientific name": "Melanomys zunigae",
+    "extinction_date": 1942,
+    "range": "Peru",
+    "continent": "South America"
+  },
+  {
+    "common name": "Alejandro Selkirk Island firecrown",
+    "scientific name": "Sephanoides fernandensis leyboldi",
+    "extinction_date": 1908,
+    "range": "Chile",
+    "continent": "South America"
+  },
+  {
+    "common name": "Colombian grebe",
+    "scientific name": "Podiceps andinus",
+    "extinction_date": 1970,
+    "range": "Colombia",
+    "continent": "South America"
+  },
+  {
+    "common name": "Darwin's ground finch",
+    "scientific name": "Geospiza magnirostris magnirostris",
+    "extinction_date": 1957,
+    "range": "Ecuador (Galapagos Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Niceforo's pintail",
+    "scientific name": "Anas georgica niceforoi",
+    "extinction_date": 1952,
+    "range": "Colombia",
+    "continent": "South America"
+  },
+  {
+    "common name": "San Cristóbal vermilion flycatcher",
+    "scientific name": "Pyrocephalus rubinus dubius",
+    "extinction_date": 1980,
+    "range": "Ecuador (Galapagos Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Red-throated wood-rail",
+    "scientific name": "Aramides gutturalis",
+    "extinction_date": 1843,
+    "range": "Peru",
+    "continent": "South America"
+  },
+  {
+    "common name": "Antioquia brush finch",
+    "scientific name": "Atlapetes blancae",
+    "extinction_date": 1971,
+    "range": "Colombia",
+    "continent": "South America"
+  },
+  {
+    "common name": "Bogota sunangel",
+    "scientific name": "Heliangelus zusii",
+    "extinction_date": 1907,
+    "range": "Colombia",
+    "continent": "South America"
+  },
+  {
+    "common name": "Northern curlew",
+    "scientific name": "Numenius borealis",
+    "extinction_date": 1939,
+    "range": "Brazil and Argentina",
+    "continent": "South America"
+  },
+  {
+    "common name": "Northern curlew",
+    "scientific name": "Numenius borealis",
+    "extinction_date": 1962,
+    "range": "North America",
+    "continent": "South America"
+  },
+  {
+    "common name": "Glaucous macaw",
+    "scientific name": "Anodorhynchus glaucus",
+    "extinction_date": 1960,
+    "range": "Argentina, Brazil, Paraguay and Uruguay",
+    "continent": "South America"
+  },
+  {
+    "common name": "Hooded seedeater",
+    "scientific name": "Sporophila melanops",
+    "extinction_date": 1823,
+    "range": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "Letitia's thorntail",
+    "scientific name": "Discosura letitiae",
+    "extinction_date": 1852,
+    "range": "Bolivia",
+    "continent": "South America"
+  },
+  {
+    "common name": "Turquoise-throated puffleg",
+    "scientific name": "Eriocnemis godini",
+    "extinction_date": 1850,
+    "range": "Colombia and Ecuador",
+    "continent": "South America"
+  },
+  {
+    "common name": "Pinta Island tortoise",
+    "scientific name": "Chelonoidis abingdonii",
+    "extinction_date": 1933,
+    "range": "Venezuela",
+    "continent": "South America"
+  },
+  {
+    "common name": "Spiny-knee leaf frog",
+    "scientific name": "Phrynomedusa fimbriata",
+    "extinction_date": 1920,
+    "range": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "Chile Darwin's frog",
+    "scientific name": "Rhinoderma rufum",
+    "extinction_date": 1980,
+    "range": "Chile",
+    "continent": "South America"
+  },
+  {
+    "common name": "Charles Island tortoise",
+    "scientific name": "Chelonoidis nigra",
+    "extinction_date": 1850,
+    "range": "Ecuador (Galapagos Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Pinta Island tortoise",
+    "scientific name": "Chelonoidis abingdonii",
+    "extinction_date": 2012,
+    "range": "Ecuador (Galapagos Islands)",
+    "continent": "South America"
+  },
+  {
+    "common name": "Greasefish",
+    "scientific name": "Rhizosomichthys totae",
+    "extinction_date": "",
+    "range": "Colombia",
+    "continent": "South America"
+  },
+  {
+    "common name": "Titicaca orestias",
+    "scientific name": "Orestias cuvieri",
+    "extinction_date": 1930,
+    "range": "Lake Titicaca, Bolivia and Peru",
+    "continent": "South America"
+  },
+  {
+    "common name": "Biotocus turbinatus",
+    "scientific name": "",
+    "extinction_date": "",
+    "range": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "Digerus gibberulus",
+    "scientific name": "",
+    "extinction_date": "",
+    "range": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "Littoridina gaudichaudii",
+    "scientific name": "",
+    "extinction_date": 1933,
+    "range": "Ecuador",
+    "continent": "South America"
+  },
+  {
+    "common name": "Megalobulimus cardosoi",
+    "scientific name": "",
+    "extinction_date": "",
+    "range": "Brazil",
+    "continent": "South America"
+  },
+  {
+    "common name": "Cave lion",
+    "scientific name": "Panthera spelaea",
+    "extinction_date": "10000 BC",
+    "range": "Northern Asia and had a widespread across Europe and Southern Asia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Chinese elephant",
+    "scientific name": "Elephas maximus rubridens",
+    "extinction_date": "1500 BC",
+    "range": "Eastern China",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Cyprus dwarf hippopotamus",
+    "scientific name": "Hippopotamus minor",
+    "extinction_date": "",
+    "range": "Cyprus",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Elasmotherium",
+    "scientific name": "Elasmotherium sp.",
+    "extinction_date": "29000 BC",
+    "range": "Northern Asia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Giant tapir",
+    "scientific name": "Tapirus augustus",
+    "extinction_date": "2000 BC",
+    "range": "China",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Giant deer",
+    "scientific name": "Megaloceros giganteus",
+    "extinction_date": "8000 BC",
+    "range": "Northern Asia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Stegodon",
+    "scientific name": "Stegodon florensis insularis",
+    "extinction_date": "2150 BC",
+    "range": "Indonesia (Flores) and Philippine Islands",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Steppe wisent",
+    "scientific name": "Bison priscus",
+    "extinction_date": "11000 BC",
+    "range": "Central Asia to Siberia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Syrian elephant",
+    "scientific name": "Elephas maximus asurus",
+    "extinction_date": "100 BC",
+    "range": "Middle East",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Woolly mammoth",
+    "scientific name": "Mammuthus primigenius",
+    "extinction_date": "2000 BC",
+    "range": "Northern Asia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Woolly rhinoceros",
+    "scientific name": "Coelodonta antiquitatis",
+    "extinction_date": "10000 BC",
+    "range": "Northern Asia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Aurochs",
+    "scientific name": "Bos primigenius",
+    "extinction_date": 1200,
+    "range": "Indian",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Aurochs",
+    "scientific name": "Bos primigenius",
+    "extinction_date": 1627,
+    "range": "Northern Asia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Bali tiger",
+    "scientific name": "Panthera tigris sondaica",
+    "extinction_date": 1937,
+    "range": "Indonesia (Bali)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Buhler's coryphomys",
+    "scientific name": "Coryphomys buehleri",
+    "extinction_date": 1500,
+    "range": "Indonesia (Timor)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Caspian tiger",
+    "scientific name": "Panthera tigris tigris",
+    "extinction_date": 1970,
+    "range": "Turkey to China",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Caucasian elk",
+    "scientific name": "Alces alces caucasicus",
+    "extinction_date": 1850,
+    "range": "Caucasus Mountains, Iran and Turkey",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Caucasian wisent",
+    "scientific name": "Bison bonasus caucasicus",
+    "extinction_date": 1925,
+    "range": "Caucasus Mountains",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Cebu warty pig",
+    "scientific name": "Sus cebifrons cebifrons",
+    "extinction_date": 2000,
+    "range": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Flores cave rat",
+    "scientific name": "Spelaeomys florensis",
+    "extinction_date": 1500,
+    "range": "Indonesia (Flores)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Flores long-nosed rat",
+    "scientific name": "Paulamys naso",
+    "extinction_date": 1500,
+    "range": "Indonesia (Flores)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Formosan clouded leopard",
+    "scientific name": "Neofelis nebulosa brachyura",
+    "extinction_date": 1990,
+    "range": "Taiwan",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Hokkaidō wolf",
+    "scientific name": "Canis lupus hattai",
+    "extinction_date": 1889,
+    "range": "Japan (Hokkaidō)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Honshū wolf",
+    "scientific name": "Canis lupus hodophilax",
+    "extinction_date": 1905,
+    "range": "Japan (Honshū)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Ilin Island cloudrunner",
+    "scientific name": "Crateromys paulus",
+    "extinction_date": 1990,
+    "range": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Indian Javan rhinoceros",
+    "scientific name": "Rhinoceros sondaicus inermis",
+    "extinction_date": 1925,
+    "range": "Bangladesh, Burma (Myanmar), and India",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Japanese river otter",
+    "scientific name": "Lutra lutra whiteleyi",
+    "extinction_date": 1979,
+    "range": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Japanese sea lion",
+    "scientific name": "Zalophus japonicus",
+    "extinction_date": 1974,
+    "range": "Sea of Japan",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Javan tiger",
+    "scientific name": "Panthera tigris sondaica",
+    "extinction_date": 1970,
+    "range": "Indonesia (Java)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Northern Sumatran rhinoceros",
+    "scientific name": "Dicerorhinus sumatrensis lasiotis",
+    "extinction_date": "",
+    "range": "Bangladesh, Burma (Myanmar), and India",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Queen of Sheba's gazelle",
+    "scientific name": "Gazella bilkis",
+    "extinction_date": 1951,
+    "range": "Yemen",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Saudi gazelle",
+    "scientific name": "Gazella saudiya",
+    "extinction_date": "",
+    "range": "Arabian Peninsula",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Schomburgk's deer",
+    "scientific name": "Rucervus schomburgki",
+    "extinction_date": 1938,
+    "range": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Steller's sea cow",
+    "scientific name": "Hydrodamalis gigas",
+    "extinction_date": 1768,
+    "range": "Russia (Commander Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Sturdee's pipistrelle",
+    "scientific name": "Pipistrellus sturdeei",
+    "extinction_date": "",
+    "range": "Japan (Bonin Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Verhoeven's giant tree rat",
+    "scientific name": "Papagomys theodorverhoeveni",
+    "extinction_date": 1500,
+    "range": "Indonesia (Flores)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Vietnamese Javan rhinoceros",
+    "scientific name": "Rhinoceros sondaicus annamiticus",
+    "extinction_date": 2010,
+    "range": "Vietnam to Malaysia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Baiji",
+    "scientific name": "Lipotes vexillifer",
+    "extinction_date": 2004,
+    "range": "Yangtze River, China",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Gloomy tube-nosed bat",
+    "scientific name": "Murina tenebrosa",
+    "extinction_date": 1962,
+    "range": "Tsushima Island, Japan",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Kouprey",
+    "scientific name": "Bos sauveli",
+    "extinction_date": 1988,
+    "range": "Cambodia, Laos, Thailand & Vietnam",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Malabar civet",
+    "scientific name": "Viverra civettina",
+    "extinction_date": 1987,
+    "range": "India",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Arabian ostrich",
+    "scientific name": "Struthio camelus syriacus",
+    "extinction_date": 1966,
+    "range": "Middle East",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Asian ostrich",
+    "scientific name": "Struthio asiaticus",
+    "extinction_date": "10,000 BC",
+    "range": "Middle East to Central Asia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Bering cackling goose",
+    "scientific name": "Branta hutchinsii asiatica",
+    "extinction_date": 1929,
+    "range": "Russia (Komandorski and Kuril Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Bonin grosbeak",
+    "scientific name": "Carpodacus ferreorostris",
+    "extinction_date": 1828,
+    "range": "Japan (Bonin Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Bonin nankeen night heron",
+    "scientific name": "Nycticorax caledonicus crassirostris",
+    "extinction_date": 1889,
+    "range": "Japan (Bonin Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Bonin thrush",
+    "scientific name": "Zoothera terrestris",
+    "extinction_date": 1827,
+    "range": "Japan (Bonin Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Bonin wood pigeon",
+    "scientific name": "Columba versicolor",
+    "extinction_date": 1889,
+    "range": "Japan (Bonin Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Bennu heron",
+    "scientific name": "Ardea bennuides",
+    "extinction_date": "2000 BC",
+    "range": "United Arab Emirates",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Cebu hanging parrot",
+    "scientific name": "Loriculus philippensis chrysonotus",
+    "extinction_date": "",
+    "range": "Philippines (Cebu)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Cyprus dipper",
+    "scientific name": "Cinclus cinclus olympicus",
+    "extinction_date": 1950,
+    "range": "Cyprus",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Mukojima white-eye",
+    "scientific name": "Apalopteron familiare familiare",
+    "extinction_date": 1930,
+    "range": "Japan (Bonin Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Ryukyu kingfisher",
+    "scientific name": "Todiramphus miyakoensis",
+    "extinction_date": 1887,
+    "range": "Japan (Ryukyu Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Ryukyu wood pigeon",
+    "scientific name": "Columba jouyi",
+    "extinction_date": 1936,
+    "range": "Japan (Ryukyu Islands)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Spectacled cormorant",
+    "scientific name": "Phalacrocorax perspicillatus",
+    "extinction_date": 1850,
+    "range": "Russia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Black-browed babbler",
+    "scientific name": "Malacocincla perspicillata",
+    "extinction_date": 1848,
+    "range": "Indonesia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Catanduanes bleeding heart",
+    "scientific name": "Gallicolumba luzonica rubiventris",
+    "extinction_date": 1971,
+    "range": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Crested shelduck",
+    "scientific name": "Tadorna cristata",
+    "extinction_date": 1985,
+    "range": "Japan, North Korea and South Korea",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Himalayan quail",
+    "scientific name": "Ophrysia superciliosa",
+    "extinction_date": 1876,
+    "range": "India",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Javan lapwing",
+    "scientific name": "Vanellus macropterus",
+    "extinction_date": 1940,
+    "range": "Indonesia (Java)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Negros fruit dove",
+    "scientific name": "Ptilinopus arcanus",
+    "extinction_date": 1953,
+    "range": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pink-headed duck",
+    "scientific name": "Rhodonessa caryophyllacea",
+    "extinction_date": 1950,
+    "range": "Bangladesh, Burma (Myanmar) and India",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Rück's blue flycatcher",
+    "scientific name": "Cyornis ruckii",
+    "extinction_date": 1918,
+    "range": "Indonesia (Sumatra)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Siau scops owl",
+    "scientific name": "Otus manadensis siaoensis",
+    "extinction_date": 1866,
+    "range": "Indonesia (Sulawesi)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Slender-billed curlew",
+    "scientific name": "Numenius tenuirostris",
+    "extinction_date": 1998,
+    "range": "Russia (Siberia)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Sulu bleeding-heart",
+    "scientific name": "Gallicolumba menagei",
+    "extinction_date": 1891,
+    "range": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Vaurie's nightjar",
+    "scientific name": "Caprimulgus centralasicus",
+    "extinction_date": 1929,
+    "range": "China",
+    "continent": "Asia"
+  },
+  {
+    "common name": "White-eyed river martin",
+    "scientific name": "Pseudochelidon sirintarae",
+    "extinction_date": 1980,
+    "range": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Megalochelys atlas",
+    "scientific name": "Megalochelys atlas",
+    "extinction_date": "10000 BC",
+    "range": "Indian Subcontinent to Indonesia",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Gunther's streamlined frog",
+    "scientific name": "Nannophrys guentheri",
+    "extinction_date": 1882,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus adspersus",
+    "scientific name": "",
+    "extinction_date": 1886,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus dimbullae",
+    "scientific name": "",
+    "extinction_date": 1933,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus eximius",
+    "scientific name": "",
+    "extinction_date": 1933,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus extirpo",
+    "scientific name": "",
+    "extinction_date": 1882,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus halyi",
+    "scientific name": "",
+    "extinction_date": 1899,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus leucorhinus",
+    "scientific name": "",
+    "extinction_date": 1856,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus maia",
+    "scientific name": "",
+    "extinction_date": 1860,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus malcolmsmithi",
+    "scientific name": "",
+    "extinction_date": "",
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus nanus",
+    "scientific name": "",
+    "extinction_date": 1869,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus nasutus",
+    "scientific name": "",
+    "extinction_date": 1869,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus oxyrhynchus",
+    "scientific name": "",
+    "extinction_date": 1872,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus pardus",
+    "scientific name": "",
+    "extinction_date": 1876,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus rugatus",
+    "scientific name": "",
+    "extinction_date": 1927,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus temporalis",
+    "scientific name": "",
+    "extinction_date": 1864,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus variabilis",
+    "scientific name": "",
+    "extinction_date": "",
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus zal",
+    "scientific name": "",
+    "extinction_date": 1947,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Pseudophilautus zimmeri",
+    "scientific name": "",
+    "extinction_date": 1927,
+    "range": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Yunnan lake newt",
+    "scientific name": "Cynops wolterstorffi",
+    "extinction_date": 1979,
+    "range": "China (Yunnan)",
+    "continent": "Asia"
+  },
+  {
+    "common name": "Tasman starling",
+    "scientific name": "Aplonis fusca",
+    "extinction_date": 1923,
+    "range": "Norfolk Island and Lord Howe Island, NSW",
+    "continent": "Australia"
+  },
+  {
+    "common name": "White-throated pigeon",
+    "scientific name": "Columba vitiensis godmanae",
+    "extinction_date": 1853,
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Red-crowned parakeet",
+    "scientific name": "Cyanoramphus novaezelandiae subflavescens",
+    "extinction_date": 1869,
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Rufous bristlebird",
+    "scientific name": "Dasyornis broadbenti litoralis",
+    "extinction_date": "",
+    "range": "WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "King Island emu, dwarf emu",
+    "scientific name": "Dromaius novaehollandiae minor",
+    "extinction_date": 1822,
+    "range": "King Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Kangaroo Island emu, black emu",
+    "scientific name": "Dromaius novaehollandiae baudinianus",
+    "extinction_date": 1827,
+    "range": "Kangaroo Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Tasmanian emu",
+    "scientific name": "Dromaius novaehollandiae diemenensis",
+    "extinction_date": 1850,
+    "range": "Tasmania",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Roper River scrub-robin",
+    "scientific name": "Drymodes superciliaris colcloughi",
+    "extinction_date": 1910,
+    "range": "NT",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Norfolk ground dove",
+    "scientific name": "Gallicolumba norfolciensis",
+    "extinction_date": 1850,
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lord Howe gerygone",
+    "scientific name": "Gerygone insularis",
+    "extinction_date": 1928,
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "New Zealand pigeon",
+    "scientific name": "Hemiphaga novaeseelandiae spadicea",
+    "extinction_date": "",
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Norfolk Island long-tailed triller",
+    "scientific name": "Lalage leucopyga leucopyga",
+    "extinction_date": "",
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Norfolk Island kaka",
+    "scientific name": "Nestor productus",
+    "extinction_date": "",
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Southern boobook",
+    "scientific name": "Ninox novaeseelandiae albaria",
+    "extinction_date": "",
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Southern boobook",
+    "scientific name": "Ninox novaeseelandiae undulata",
+    "extinction_date": 1996,
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "White gallinule",
+    "scientific name": "Porphyrio albus",
+    "extinction_date": "",
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Paradise parrot",
+    "scientific name": "Psephotus pulcherrimus",
+    "extinction_date": 1927,
+    "range": "NSW, Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lewin's water rail",
+    "scientific name": "Rallus pectoralis clelandi",
+    "extinction_date": 1932,
+    "range": "WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Macquarie Island rail",
+    "scientific name": "Gallirallus philippensis macquariensis",
+    "extinction_date": "",
+    "range": "Macquarie Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lord Howe fantail",
+    "scientific name": "Rhipidura cervina",
+    "extinction_date": 1924,
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Norfolk Island thrush, grey-headed blackbird",
+    "scientific name": "Turdus poliocephalus poliocephalus",
+    "extinction_date": "",
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lord Howe Island thrush",
+    "scientific name": "Turdus poliocephalus vinitinctus",
+    "extinction_date": 1924,
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "White-chested white-eye, Norfolk Island silvereye",
+    "scientific name": "Zosterops albogularis",
+    "extinction_date": "",
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Robust white-eye",
+    "scientific name": "Zosterops strenuus",
+    "extinction_date": 1923,
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Gastric-brooding frog",
+    "scientific name": "Rheobatrachus silus",
+    "extinction_date": 1981,
+    "range": "Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Eungella gastric-brooding frog",
+    "scientific name": "Rheobatrachus silus",
+    "extinction_date": 1985,
+    "range": "Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Sharp-snouted day frog, sharp-snouted torrent frog",
+    "scientific name": "Taudactylus acutirostris",
+    "extinction_date": 1997,
+    "range": "Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Southern day frog",
+    "scientific name": "Taudactylus diurnus",
+    "extinction_date": 1979,
+    "range": "Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Christmas Island forest skink",
+    "scientific name": "Emoia nativitatis",
+    "extinction_date": 2014,
+    "range": "Christmas Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Victorian grassland earless dragon",
+    "scientific name": "Tympanocryptis pinguicolla",
+    "extinction_date": 1969,
+    "range": "VIC",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Boodie, burrowing bettong",
+    "scientific name": "Bettongia lesueur graii",
+    "extinction_date": "",
+    "range": "WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Brush-tailed bettong",
+    "scientific name": "Bettongia penicillata penicillata",
+    "extinction_date": "",
+    "range": "NSW, NT, SA, VIC, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Desert rat-kangaroo",
+    "scientific name": "Caloprymnus campestris",
+    "extinction_date": 1935,
+    "range": "Qld, SA, NT",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Pig-footed bandicoot",
+    "scientific name": "Chaeropus ecaudatus",
+    "extinction_date": 1950,
+    "range": "NSW, NT, SA, VIC, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "White-footed rabbit-rat",
+    "scientific name": "Conilurus albipes",
+    "extinction_date": 1857,
+    "range": "NSW, Qld, SA, VIC",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Central hare-wallaby",
+    "scientific name": "Lagorchestes asomatus",
+    "extinction_date": 1935,
+    "range": "NT",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Rufous hare-wallaby",
+    "scientific name": "Lagorchestes hirsutus hirsutus",
+    "extinction_date": "",
+    "range": "NT, SA, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Eastern hare-wallaby",
+    "scientific name": "Lagorchestes leporides",
+    "extinction_date": 1890,
+    "range": "NSW, Qld, SA, VIC",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Banded hare-wallaby",
+    "scientific name": "Lagostrophus fasciatus albipilis",
+    "extinction_date": "",
+    "range": "Lagostrophus fasciatus albipilis[",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Tammar wallaby",
+    "scientific name": "Macropus eugenii eugenii",
+    "extinction_date": "",
+    "range": "SA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Toolache wallaby",
+    "scientific name": "Macropus greyi",
+    "extinction_date": 1932,
+    "range": "SA, VIC",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lesser bilby",
+    "scientific name": "Macrotis leucura",
+    "extinction_date": 1931,
+    "range": "NT, Qld, SA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Bramble Cay melomys",
+    "scientific name": "Melomys rubicola",
+    "extinction_date": 2016,
+    "range": "Bramble Cay, QLD",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Long-tailed hopping-mouse",
+    "scientific name": "Notomys longicaudatus",
+    "extinction_date": 1901,
+    "range": "NT, SA, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Big-eared hopping-mouse",
+    "scientific name": "Notomys macrotis",
+    "extinction_date": 1843,
+    "range": "WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Darling Downs hopping-mouse",
+    "scientific name": "Notomys mordax",
+    "extinction_date": 1846,
+    "range": "NSW, Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Crescent nailtail wallaby",
+    "scientific name": "Onychogalea lunata",
+    "extinction_date": 1956,
+    "range": "SA, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Western barred bandicoot",
+    "scientific name": "Perameles bougainville fasciata",
+    "extinction_date": "",
+    "range": "NSW, VIC",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Desert bandicoot",
+    "scientific name": "Perameles eremiana",
+    "extinction_date": 1960,
+    "range": "NT, SA, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Christmas Island pipistrelle",
+    "scientific name": "Pipistrellus murrayi",
+    "extinction_date": 2009,
+    "range": "Christmas Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Broad-faced potoroo",
+    "scientific name": "Potorous platyops",
+    "extinction_date": 1865,
+    "range": "WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Blue-grey mouse",
+    "scientific name": "Pseudomys glaucus",
+    "extinction_date": 1956,
+    "range": "NSW, Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Gould's mouse",
+    "scientific name": "Pseudomys gouldii",
+    "extinction_date": 1857,
+    "range": "NSW, Qld, SA, VIC, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Dusky flying fox",
+    "scientific name": "Pteropus brunneus",
+    "extinction_date": 1800,
+    "range": "Qld",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Maclear's rat",
+    "scientific name": "Rattus macleari",
+    "extinction_date": 1908,
+    "range": "Christmas Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Bulldog rat",
+    "scientific name": "Rattus nativitatis",
+    "extinction_date": 1903,
+    "range": "Christmas Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Tasmanian tiger",
+    "scientific name": "Thylacinus cynocephalus",
+    "extinction_date": 1936,
+    "range": "Tasmania",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Christmas Island shrew",
+    "scientific name": "Crocidura trichura",
+    "extinction_date": 1985,
+    "range": "Christmas Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lesser stick-nest rat",
+    "scientific name": "Leporillus apicalis",
+    "extinction_date": 1933,
+    "range": "NSW, NT, SA, VIC, WA",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lord Howe long-eared bat",
+    "scientific name": "Nyctophilus howensis",
+    "extinction_date": "",
+    "range": "Lord Howe Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Christmas Island pipistrelle",
+    "scientific name": "Pipistrellus murrayi",
+    "extinction_date": 2009,
+    "range": "Christmas Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lake Pedder earthworm",
+    "scientific name": "Hypolimnus pedderensis",
+    "extinction_date": 1972,
+    "range": "Tas",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Campbell's land snail",
+    "scientific name": "Advena campbelli",
+    "extinction_date": "",
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Norfolk snail",
+    "scientific name": "Nancibella quintalia",
+    "extinction_date": "",
+    "range": "Norfolk Island",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lord Howe snail",
+    "scientific name": "Tornelasmias capricorni",
+    "extinction_date": "",
+    "range": "",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Macqaurie slug",
+    "scientific name": "Angrobia dulvertonensis",
+    "extinction_date": 1996,
+    "range": "",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Lord Howe slug",
+    "scientific name": "Placostylus bivaricosus etheridgei",
+    "extinction_date": "",
+    "range": "",
+    "continent": "Australia"
+  },
+  {
+    "common name": "Balearic giant shrew",
+    "scientific name": "Nesiotites hidalgo",
+    "extinction_date": "",
+    "range": "Spain (the Balearic Islands)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Balearic Islands cave goat",
+    "scientific name": "Myotragus balearicus",
+    "extinction_date": "3,000 BC",
+    "range": "Spain (the Balearic Islands)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Canary Islands giant rats",
+    "scientific name": "Canariomys bravoi and Canariomys tamarani",
+    "extinction_date": "1500 BC",
+    "range": "Spain (the Canary Islands)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Cave bear",
+    "scientific name": "Ursus spelaeus",
+    "extinction_date": "27,500 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Cave hyena",
+    "scientific name": "Crocuta crocuta spelaea",
+    "extinction_date": "11,000 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "European Ice Age leopard",
+    "scientific name": "Panthera pardus spelaea",
+    "extinction_date": "24,000 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Eurasian cave lion",
+    "scientific name": "Panthera spelaea",
+    "extinction_date": "10,000 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Cretan dwarf megacerine",
+    "scientific name": "Candiacervus cretensis",
+    "extinction_date": "",
+    "range": "Greece (Crete)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Cretan dwarf hippopotamus",
+    "scientific name": "Hippopotamus creutzburgi",
+    "extinction_date": "",
+    "range": "Greece (Crete)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Dwarf elephant",
+    "scientific name": "Palaeoloxodon falconeri",
+    "extinction_date": "",
+    "range": "various Mediterranean islands",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Elasmotherium",
+    "scientific name": "Elasmotherium sp.",
+    "extinction_date": "10,000 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "European ass",
+    "scientific name": "Equus hydruntinus",
+    "extinction_date": "",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Giant Deer",
+    "scientific name": "Megaloceros giganteus",
+    "extinction_date": "5,000 BC",
+    "range": "northern Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Homotherium",
+    "scientific name": "Homotherium sp.",
+    "extinction_date": "10,000 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Majorcan giant dormouse",
+    "scientific name": "Hypnomys morphaeus",
+    "extinction_date": "",
+    "range": "Spain (Majorca)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Maltese hippopotamus",
+    "scientific name": "Hippopotamus melitensis",
+    "extinction_date": "",
+    "range": "Malta",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Minorcan giant dormouse",
+    "scientific name": "Hypnomys mahonensis",
+    "extinction_date": "",
+    "range": "Spain (Minorca)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Sardinian dhole",
+    "scientific name": "Cynotherium sardous",
+    "extinction_date": "",
+    "range": "France (Corsica) and Italy (Sardinia)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Stephanorhinus",
+    "scientific name": "Stephanorhinus sp.",
+    "extinction_date": "",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Woolly mammoth",
+    "scientific name": "Mammuthus primigenius",
+    "extinction_date": "2,000 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Woolly rhinoceros",
+    "scientific name": "Coelodonta antiquitatis",
+    "extinction_date": "10,000 BC",
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Giant swan",
+    "scientific name": "Cygnus falconeri",
+    "extinction_date": "",
+    "range": "Italy (Sicily) and Malta",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Ibizan rail",
+    "scientific name": "Rallus eivissensis",
+    "extinction_date": "5,000 BC",
+    "range": "Spain (the Balearic Islands)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Cretan owl",
+    "scientific name": "Athene cretensis",
+    "extinction_date": "130000 BC",
+    "range": "Greece (Crete)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Theriosuchus",
+    "scientific name": "Theriosuchus sympiestodon",
+    "extinction_date": "",
+    "range": "Hateg Island",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Eurazhdarcho",
+    "scientific name": "Eurazhdarcho langendorfensis",
+    "extinction_date": "",
+    "range": "Hateg Island",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Hatzegopteryx",
+    "scientific name": "Hatzegopteryx thembema",
+    "extinction_date": "",
+    "range": "Hateg Island",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Aurochs",
+    "scientific name": "Bos primigenius",
+    "extinction_date": 1627,
+    "range": "Europe (native to Poland)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Caspian tiger",
+    "scientific name": "Panthera tigris tigris, syn. Panthera tigris virgata",
+    "extinction_date": 1970,
+    "range": "Turkey to the Caucasus Mountains",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Caucasian elk",
+    "scientific name": "Alces alces caucasicus",
+    "extinction_date": 1850,
+    "range": "the Caucasus Mountains",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Caucasian wisent",
+    "scientific name": "Bison bonasus caucasicus",
+    "extinction_date": 1925,
+    "range": "the Caucasus Mountains",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Carpathian wisent",
+    "scientific name": "Bison bonasus hungarorum",
+    "extinction_date": 1790,
+    "range": "the Carpathian Mountains",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Lion",
+    "scientific name": "Panthera leo leo",
+    "extinction_date": 1000,
+    "range": "Balkans - Transcaucasia",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Majorcan hare",
+    "scientific name": "Lepus granatensis solisi",
+    "extinction_date": 1980,
+    "range": "Spain (Majorca)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Portuguese ibex",
+    "scientific name": "Capra pyrenaica lusitanica",
+    "extinction_date": 1892,
+    "range": "Portugal and Spain",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Pyrenean ibex",
+    "scientific name": "Capra pyrenaica pyrenaica",
+    "extinction_date": 2000,
+    "range": "Andorra, France, Portugal and Spain",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Sardinian giant shrew",
+    "scientific name": "Nesiotites similis",
+    "extinction_date": 1500,
+    "range": "Italy (Sardinia)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Sardinian lynx",
+    "scientific name": "Lynx lynx sardiniae",
+    "extinction_date": 1900,
+    "range": "Italy (Sardinia)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Sardinian pika",
+    "scientific name": "Prolagus sardus",
+    "extinction_date": 1774,
+    "range": "Italy (Sardinia)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "St. Kilda house mouse",
+    "scientific name": "Mus musculus muralis",
+    "extinction_date": 1930,
+    "range": "the United Kingdom (St. Kilda)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Tarpan",
+    "scientific name": "Equus ferus ferus",
+    "extinction_date": 1909,
+    "range": "Europe",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Great auk",
+    "scientific name": "Pinguinus impennis",
+    "extinction_date": 1854,
+    "range": "Iceland and the northern European coast",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Pied raven",
+    "scientific name": "Corvus corax varius",
+    "extinction_date": 1950,
+    "range": "Denmark (the Faroe Islands)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Ratas Island lizard",
+    "scientific name": "Podarcis lilfordi rodriquezi",
+    "extinction_date": 1950,
+    "range": "Spain (Minorca)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Roque Chico de Salmor giant lizard",
+    "scientific name": "Gallotia simonyi simonyi",
+    "extinction_date": 1930,
+    "range": "Spain (the Canary Islands)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Santo Stefano lizard",
+    "scientific name": "Podarcis sicula sanctistephani",
+    "extinction_date": 1965,
+    "range": "Italy (Santo Stefano Island)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Chondrostoma scodrense",
+    "scientific name": "",
+    "extinction_date": 1800,
+    "range": "Albania and Montenegro",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Coregonus bezola",
+    "scientific name": "",
+    "extinction_date": 1960,
+    "range": "Lac du Bourget, France",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Coregonus fera",
+    "scientific name": "",
+    "extinction_date": 1950,
+    "range": "France and Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Coregonus restrictus",
+    "scientific name": "",
+    "extinction_date": 1890,
+    "range": "Lake Morat, Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Gravenche",
+    "scientific name": "Coregonus hiemalis",
+    "extinction_date": 1950,
+    "range": "France and Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Houting",
+    "scientific name": "Coregonus oxyrinchus",
+    "extinction_date": 1940,
+    "range": "Belgium, France, Germany, the Netherlands and the United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Lake Constance whitefish",
+    "scientific name": "Coregonus gutturosus",
+    "extinction_date": 1930,
+    "range": "Austria, Germany and Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Romanogobio antipai",
+    "scientific name": "",
+    "extinction_date": 1890,
+    "range": "the Lower Danube, Romania and Ukraine",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Salvelinus neocomensis",
+    "scientific name": "",
+    "extinction_date": 1904,
+    "range": "Lake Neuchâtel, Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Techirghiol stickleback",
+    "scientific name": "Gasterosteus crenobiontus",
+    "extinction_date": 1960,
+    "range": "Lake Techirghiol, Romania",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Ukrainian migratory lamprey",
+    "scientific name": "Eudontomyzon sp. nov. 'migratory'",
+    "extinction_date": "",
+    "range": "Moldova, Russia and Ukraine",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Madeiran large white",
+    "scientific name": "Pieris brassicae wollastoni",
+    "extinction_date": 1970,
+    "range": "Portugal (Madeira)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "British large copper",
+    "scientific name": "Lycaena dispar dispar",
+    "extinction_date": 1864,
+    "range": "England",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Silver-studded blue subsp. masseyi",
+    "scientific name": "Plebejus argus masseyi",
+    "extinction_date": 1940,
+    "range": "England (Cumbria and Lancashire)",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Scarce large blue subsp. burdigalensis",
+    "scientific name": "Phengaris teleius burdigalensis",
+    "extinction_date": "",
+    "range": "France",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Perrin's cave beetle",
+    "scientific name": "Siettitia balsetensis",
+    "extinction_date": "",
+    "range": "France",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Tobias' caddisfly",
+    "scientific name": "Hydropsyche tobiasi",
+    "extinction_date": 1938,
+    "range": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "common name": "Ivell's sea anemone",
+    "scientific name": "Edwardsia ivelli",
+    "extinction_date": 1983,
+    "range": "Widewater Lagoon, the United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "common name": "West Indies nesophontes Nesophontes",
+    "scientific name": "",
+    "extinction_date": 1500,
+    "range": "Cuba, Hispaniola, Puerto Rico, \n U.S. Virgin Islands and Cayman Islands",
+    "continent": "North America"
+  },
+  {
+    "common name": "Tule shrew",
+    "scientific name": "Sorex ornatus juncensis",
+    "extinction_date": 1905,
+    "range": "Baja California, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Torre's cave rat",
+    "scientific name": "Boromys torrei",
+    "extinction_date": 1500,
+    "range": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Tacoma pocket gopher",
+    "scientific name": "Thomomys mazama tacomensis",
+    "extinction_date": 1970,
+    "range": "Washington",
+    "continent": "North America"
+  },
+  {
+    "common name": "Steller's sea cow",
+    "scientific name": "Hydrodamalis gigas",
+    "extinction_date": 1768,
+    "range": "Commander Islands",
+    "continent": "North America"
+  },
+  {
+    "common name": "Southern Rocky Mountain wolf",
+    "scientific name": "Canis lupus youngi",
+    "extinction_date": 1935,
+    "range": "Southern Rocky Mountains, USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Southern California kit fox",
+    "scientific name": "Vulpes macrotis macrotis",
+    "extinction_date": 1903,
+    "range": "Southern California, USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Smith Island cottontail",
+    "scientific name": "Sylvilagus floridanus hitchensi",
+    "extinction_date": 1987,
+    "range": "Smith Island, Virginia",
+    "continent": "North America"
+  },
+  {
+    "common name": "Sea mink",
+    "scientific name": "Neovison macrodon",
+    "extinction_date": 1860,
+    "range": "Atlantic Canada and New England",
+    "continent": "North America"
+  },
+  {
+    "common name": "San Martín Island woodrat",
+    "scientific name": "Neotoma martinensis",
+    "extinction_date": 1950,
+    "range": "San Martín Island, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Samana hutia",
+    "scientific name": "Plagiodontia ipnaeum",
+    "extinction_date": 1500,
+    "range": "Hispaniola",
+    "continent": "North America"
+  },
+  {
+    "common name": "Saint Vincent pygmy rice rat",
+    "scientific name": "Oligoryzomys victus",
+    "extinction_date": 1898,
+    "range": "St. Vincent",
+    "continent": "North America"
+  },
+  {
+    "common name": "Saint Lucia giant rice rat",
+    "scientific name": "Megalomys luciae",
+    "extinction_date": 1852,
+    "range": "St. Lucia",
+    "continent": "North America"
+  },
+  {
+    "common name": "Puerto Rican long-nosed bat",
+    "scientific name": "Monophyllus frater",
+    "extinction_date": 1600,
+    "range": "Puerto Rico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Puerto Rican hutia",
+    "scientific name": "Isolobodon portoricensis",
+    "extinction_date": 1600,
+    "range": "Hispaniola and Puerto Rico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Pallid beach mouse",
+    "scientific name": "Peromyscus polionotus decoloratus",
+    "extinction_date": 1959,
+    "range": "Florida",
+    "continent": "North America"
+  },
+  {
+    "common name": "Oriente cave rat",
+    "scientific name": "Boromys offella",
+    "extinction_date": 1500,
+    "range": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Newfoundland wolf",
+    "scientific name": "Canis lupus beothucus",
+    "extinction_date": 1911,
+    "range": "Newfoundland",
+    "continent": "North America"
+  },
+  {
+    "common name": "Nevis rice rat",
+    "scientific name": "Pennatomys nivalis",
+    "extinction_date": 1500,
+    "range": "Netherlands (Sint Eustatius) & Saint Kitts and Nevis",
+    "continent": "North America"
+  },
+  {
+    "common name": "Nelson's rice rat",
+    "scientific name": "Oryzomys nelsoni",
+    "extinction_date": 1897,
+    "range": "María Madre Island, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Montane hutia",
+    "scientific name": "Isolobodon montanus",
+    "extinction_date": 1500,
+    "range": "Hispaniola",
+    "continent": "North America"
+  },
+  {
+    "common name": "Mexican grizzly bear",
+    "scientific name": "Ursus arctos nelsoni",
+    "extinction_date": 1964,
+    "range": "Mexico and Southwestern USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Merriam's elk",
+    "scientific name": "Cervus canadensis merriami",
+    "extinction_date": 1906,
+    "range": "Southwestern USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Martinique giant rice rat",
+    "scientific name": "Megalomys desmarestii",
+    "extinction_date": 1902,
+    "range": "Martinique",
+    "continent": "North America"
+  },
+  {
+    "common name": "Marcano's solenodon",
+    "scientific name": "Solenodon marcanoi",
+    "extinction_date": 1500,
+    "range": "Hispaniola",
+    "continent": "North America"
+  },
+  {
+    "common name": "Little Swan Island hutia",
+    "scientific name": "Geocapromys thoracatus",
+    "extinction_date": 1955,
+    "range": "Swan Islands, Honduras",
+    "continent": "North America"
+  },
+  {
+    "common name": "Jamaican rice rat",
+    "scientific name": "Oryzomys antillarum",
+    "extinction_date": 1870,
+    "range": "Jamaica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Jamaican monkey",
+    "scientific name": "Xenothrix mcgregori",
+    "extinction_date": 1500,
+    "range": "Jamaica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Insular cave rat",
+    "scientific name": "Heteropsomys insulans",
+    "extinction_date": 1600,
+    "range": "Puerto Rico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Imposter hutia",
+    "scientific name": "Hexolobodon phenax",
+    "extinction_date": 1500,
+    "range": "Hispaniola",
+    "continent": "North America"
+  },
+  {
+    "common name": "Hispaniolan edible rat",
+    "scientific name": "Heteropsomys insulans",
+    "extinction_date": 1500,
+    "range": "Hispaniola",
+    "continent": "North America"
+  },
+  {
+    "common name": "Gull Island vole",
+    "scientific name": "Microtus pennsylvanicus nesophilus",
+    "extinction_date": 1897,
+    "range": "Gull Island, New York",
+    "continent": "North America"
+  },
+  {
+    "common name": "Goff's pocket gopher",
+    "scientific name": "Geomys pinetis goffi",
+    "extinction_date": 1955,
+    "range": "Florida",
+    "continent": "North America"
+  },
+  {
+    "common name": "Eastern elk",
+    "scientific name": "Cervus canadensis canadensis",
+    "extinction_date": 1877,
+    "range": "Eastern Canada and USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Eastern cougar",
+    "scientific name": "Puma concolor couguar",
+    "extinction_date": 2011,
+    "range": "Eastern Canada and USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Cuban coney",
+    "scientific name": "Geocapromys columbianus",
+    "extinction_date": 1500,
+    "range": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Cascade Mountains wolf",
+    "scientific name": "Canis lupus fuscus",
+    "extinction_date": 1940,
+    "range": "Canada and USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Caribbean monk seal",
+    "scientific name": "Monachus tropicalis",
+    "extinction_date": 1952,
+    "range": "Caribbean Sea",
+    "continent": "North America"
+  },
+  {
+    "common name": "California grizzly bear",
+    "scientific name": "Ursus arctos californicus",
+    "extinction_date": 1922,
+    "range": "California",
+    "continent": "North America"
+  },
+  {
+    "common name": "Bunker's woodrat",
+    "scientific name": "Neotoma bunkeri",
+    "extinction_date": 1932,
+    "range": "Mexico (Coronados Islands)",
+    "continent": "North America"
+  },
+  {
+    "common name": "Barbados raccoon",
+    "scientific name": "Procyon lotor gloveralleni",
+    "extinction_date": 1964,
+    "range": "Barbados",
+    "continent": "North America"
+  },
+  {
+    "common name": "Banks Island wolf",
+    "scientific name": "Canis lupus bernardi",
+    "extinction_date": 1920,
+    "range": "Canada",
+    "continent": "North America"
+  },
+  {
+    "common name": "Anthony's woodrat",
+    "scientific name": "Neotoma anthonyi",
+    "extinction_date": 1926,
+    "range": "Mexico (only on Isla Todos Santos)",
+    "continent": "North America"
+  },
+  {
+    "common name": "Dwarf hutia",
+    "scientific name": "Mesocapromys nanus",
+    "extinction_date": 1937,
+    "range": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Garrido's hutia",
+    "scientific name": "Mysateles garridoi",
+    "extinction_date": 1989,
+    "range": "Banco de los Jardins y Jardinillos, Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Puebla deer mouse",
+    "scientific name": "Peromyscus mekisturus",
+    "extinction_date": 1948,
+    "range": "Puebla, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "San Quintin kangaroo rat",
+    "scientific name": "Dipodomys gravipes",
+    "extinction_date": 1986,
+    "range": "Baja California, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "San Felipe hutia",
+    "scientific name": "Mesocapromys sanfelipensis",
+    "extinction_date": 1978,
+    "range": "San Felipe, Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Sclater's shrew",
+    "scientific name": "Sorex sclateri",
+    "extinction_date": "",
+    "range": "Chiapas, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Antiguan burrowing owl",
+    "scientific name": "Athene cunicularia amaura",
+    "extinction_date": 1800,
+    "range": "Antigua and Barbuda",
+    "continent": "North America"
+  },
+  {
+    "common name": "Atitlán grebe",
+    "scientific name": "Podilymbus gigas",
+    "extinction_date": 1989,
+    "range": "Guatemala",
+    "continent": "North America"
+  },
+  {
+    "common name": "Bahaman barn owl",
+    "scientific name": "Tyto pollens",
+    "extinction_date": 1500,
+    "range": "Andros Island, Bahamas",
+    "continent": "North America"
+  },
+  {
+    "common name": "Bermuda flicker",
+    "scientific name": "Colaptes oceanicus",
+    "extinction_date": 1700,
+    "range": "Bermuda",
+    "continent": "North America"
+  },
+  {
+    "common name": "Bermuda hawk",
+    "scientific name": "Bermuteo avivorus",
+    "extinction_date": 1603,
+    "range": "Bermuda",
+    "continent": "North America"
+  },
+  {
+    "common name": "Bermuda night heron",
+    "scientific name": "Nyctanassa carcinocatactes",
+    "extinction_date": 1700,
+    "range": "Bermuda",
+    "continent": "North America"
+  },
+  {
+    "common name": "Bermuda saw-whet owl",
+    "scientific name": "Aegolius gradyi",
+    "extinction_date": 1600,
+    "range": "Bermuda",
+    "continent": "North America"
+  },
+  {
+    "common name": "Brace's emerald",
+    "scientific name": "Chlorostilbon bracei",
+    "extinction_date": 1870,
+    "range": "Bahamas",
+    "continent": "North America"
+  },
+  {
+    "common name": "Carolina parakeet",
+    "scientific name": "Conuropsis carolinensis",
+    "extinction_date": 1918,
+    "range": "Eastern U.S. and Canada",
+    "continent": "North America"
+  },
+  {
+    "common name": "Cuban ivory-billed woodpecker",
+    "scientific name": "Campephilus principalis bairdii",
+    "extinction_date": 1987,
+    "range": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Cuban macaw",
+    "scientific name": "Ara tricolor",
+    "extinction_date": 1860,
+    "range": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "common name": "Dusky seaside sparrow",
+    "scientific name": "Ammodramus maritimus nigrescens",
+    "extinction_date": 1987,
+    "range": "Florida, U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Gould's emerald",
+    "scientific name": "Chlorostilbon elegans",
+    "extinction_date": "",
+    "range": "Bahamas or Jamaica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Grand Cayman thrush",
+    "scientific name": "Turdus ravidus",
+    "extinction_date": 1940,
+    "range": "Grand Cayman",
+    "continent": "North America"
+  },
+  {
+    "common name": "Great auk",
+    "scientific name": "Pinguinus impennis",
+    "extinction_date": 1852,
+    "range": "North Atlantic Coast",
+    "continent": "North America"
+  },
+  {
+    "common name": "Guadalupe caracara",
+    "scientific name": "Caracara lutosa",
+    "extinction_date": 1900,
+    "range": "Guadalupe, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Guadeloupe burrowing owl",
+    "scientific name": "Athene cunicularia guadeloupensis",
+    "extinction_date": 1800,
+    "range": "Guadeloupe",
+    "continent": "North America"
+  },
+  {
+    "common name": "Guadeloupe parakeet",
+    "scientific name": "Aratinga labati",
+    "extinction_date": 1700,
+    "range": "Guadeloupe",
+    "continent": "North America"
+  },
+  {
+    "common name": "Guadeloupe parrot",
+    "scientific name": "Amazona violacea",
+    "extinction_date": 1779,
+    "range": "Guadeloupe",
+    "continent": "North America"
+  },
+  {
+    "common name": "Heath hen",
+    "scientific name": "Tympanuchus cupido cupido",
+    "extinction_date": 1932,
+    "range": "New England",
+    "continent": "North America"
+  },
+  {
+    "common name": "Labrador duck",
+    "scientific name": "Camptorhynchus labradorius",
+    "extinction_date": 1878,
+    "range": "Atlantic Northeast",
+    "continent": "North America"
+  },
+  {
+    "common name": "Lesser Antillean macaw",
+    "scientific name": "Ara guadeloupensis",
+    "extinction_date": 1760,
+    "range": "Guadeloupe",
+    "continent": "North America"
+  },
+  {
+    "common name": "Martinique parrot",
+    "scientific name": "Amazona martinicana",
+    "extinction_date": 1779,
+    "range": "Martinique",
+    "continent": "North America"
+  },
+  {
+    "common name": "Mauge's parakeet",
+    "scientific name": "Aratinga chloroptera maugei",
+    "extinction_date": 1779,
+    "range": "Mona Island, Puerto Rico",
+    "continent": "North America"
+  },
+  {
+    "common name": "New Mexico sharp-tailed grouse",
+    "scientific name": "Tympanuchus phasianellus hueyi",
+    "extinction_date": 1954,
+    "range": "United States (Colorado and New Mexico)",
+    "continent": "North America"
+  },
+  {
+    "common name": "Passenger pigeon",
+    "scientific name": "Ectopistes migratorius",
+    "extinction_date": 1914,
+    "range": "Eastern U.S. and Canada",
+    "continent": "North America"
+  },
+  {
+    "common name": "Slender-billed grackle",
+    "scientific name": "Quiscalus palustris",
+    "extinction_date": 1910,
+    "range": "Central Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Spectacled cormorant",
+    "scientific name": "Phalacrocorax perspicillatus",
+    "extinction_date": 1850,
+    "range": "Komandorski Islands",
+    "continent": "North America"
+  },
+  {
+    "common name": "Socorro elf owl",
+    "scientific name": "Micrathene whitneyi graysoni",
+    "extinction_date": 1970,
+    "range": "Mexico (Socorro Island)",
+    "continent": "North America"
+  },
+  {
+    "common name": "Bachman's warbler",
+    "scientific name": "Vermivora bachmanii",
+    "extinction_date": 1988,
+    "range": "Southeastern USA",
+    "continent": "North America"
+  },
+  {
+    "common name": "Eskimo curlew",
+    "scientific name": "Numenius borealis",
+    "extinction_date": 1981,
+    "range": "Alaska to Argentina",
+    "continent": "North America"
+  },
+  {
+    "common name": "Guadalupe storm-petrel",
+    "scientific name": "Oceanodroma macrodactyla",
+    "extinction_date": 1912,
+    "range": "Guadalupe, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Imperial woodpecker",
+    "scientific name": "Campephilus imperialis",
+    "extinction_date": 1956,
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Indigo-capped hummingbird",
+    "scientific name": "Amazilia cyanifrons",
+    "extinction_date": 1940,
+    "range": "Costa Rica",
+    "continent": "North America"
+  },
+  {
+    "common name": "American ivory-billed woodpecker",
+    "scientific name": "Campephilus principalis principalis",
+    "extinction_date": 1987,
+    "range": "Southeastern U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Jamaican petrel",
+    "scientific name": "Pterodroma caribbaea",
+    "extinction_date": 1879,
+    "range": "Jamaica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Jamaican poorwill",
+    "scientific name": "Siphonorhis americana",
+    "extinction_date": 1860,
+    "range": "Jamaica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Semper's warbler",
+    "scientific name": "Leucopeza semperi",
+    "extinction_date": 1961,
+    "range": "St. Lucia",
+    "continent": "North America"
+  },
+  {
+    "common name": "Martinique giant ameiva",
+    "scientific name": "Ameiva major",
+    "extinction_date": "",
+    "range": "Martinique",
+    "continent": "North America"
+  },
+  {
+    "common name": "Martinique curly-tailed lizard",
+    "scientific name": "Leiocephalus herminieri",
+    "extinction_date": 1830,
+    "range": "Martinique",
+    "continent": "North America"
+  },
+  {
+    "common name": "Navassa curly-tailed lizard",
+    "scientific name": "Leiocephalus eremitus",
+    "extinction_date": 1868,
+    "range": "Navassa Island, U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Guadeloupe ameiva",
+    "scientific name": "Pholidoscelis cineraceus",
+    "extinction_date": 1928,
+    "range": "Guadeloupe",
+    "continent": "North America"
+  },
+  {
+    "common name": "Navassa Island dwarf boa",
+    "scientific name": "Tropidophis bucculentus",
+    "extinction_date": 1800,
+    "range": "Navassa Island, U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Navassa Island iguana",
+    "scientific name": "Cyclura cornuta onchiopsis",
+    "extinction_date": 1800,
+    "range": "Navassa Island, U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Saint Croix racer",
+    "scientific name": "Borikenophis sanctaecrucis",
+    "extinction_date": "",
+    "range": "St. Croix, U.S. Virgin Islands",
+    "continent": "North America"
+  },
+  {
+    "common name": "Culebra Island giant anole",
+    "scientific name": "Xiphosurus roosevelti",
+    "extinction_date": 1978,
+    "range": "Culebra Island, Puerto Rico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Jamaica giant galliwasp",
+    "scientific name": "Celestus occiduus",
+    "extinction_date": 1840,
+    "range": "Jamaica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Ainsworth's salamander",
+    "scientific name": "Plethodon ainsworthi",
+    "extinction_date": 1964,
+    "range": "U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Craugastor chrysozetetes",
+    "scientific name": "",
+    "extinction_date": "",
+    "range": "Honduras",
+    "continent": "North America"
+  },
+  {
+    "common name": "Craugastor escoces",
+    "scientific name": "",
+    "extinction_date": 1986,
+    "range": "Costa Rica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Golden toad",
+    "scientific name": "Bufo periglenes",
+    "extinction_date": 1989,
+    "range": "Costa Rica",
+    "continent": "North America"
+  },
+  {
+    "common name": "Rabbs' fringe-limbed treefrog",
+    "scientific name": "Ecnomiohyla rabborum'",
+    "extinction_date": 2016,
+    "range": "Panama",
+    "continent": "North America"
+  },
+  {
+    "common name": "Saber-toothed salmon",
+    "scientific name": "Oncorhynchus rastrosus",
+    "extinction_date": "",
+    "range": "Western coast of Canada and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Alberca silverside",
+    "scientific name": "Chirostoma bartoni",
+    "extinction_date": 2006,
+    "range": "Lerma River Basin, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Alvord cutthroat trout",
+    "scientific name": "Oncorhynchus clarki alvordensis",
+    "extinction_date": "1920s",
+    "range": "Alvord Dry Lake, Oregon",
+    "continent": "North America"
+  },
+  {
+    "common name": "Amistad gambusia",
+    "scientific name": "Gambusia amistadensis",
+    "extinction_date": "Unknown (declared in 1987)",
+    "range": "Goodenough Spring, Texas",
+    "continent": "North America"
+  },
+  {
+    "common name": "Ash Meadows killifish",
+    "scientific name": "Empetrichthys merriami",
+    "extinction_date": 1948,
+    "range": "Ash Meadows, Nevada",
+    "continent": "North America"
+  },
+  {
+    "common name": "Banff longnose dace",
+    "scientific name": "Rhinichthys cataractae smithi",
+    "extinction_date": "Unknown (declared in 1987)",
+    "range": "Banff, Alberta",
+    "continent": "North America"
+  },
+  {
+    "common name": "Blackfin cisco",
+    "scientific name": "Coregonus nigripinnis",
+    "extinction_date": 1969,
+    "range": "Great Lakes, Canada and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Blue walleye",
+    "scientific name": "Sander vitreus glaucus",
+    "extinction_date": 1983,
+    "range": "Great Lakes, Canada and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Cachorrito de la Trinidad",
+    "scientific name": "Cyprinodon inmemoriam",
+    "extinction_date": "Unknown",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Catarina pupfish",
+    "scientific name": "Megupsilon aporus",
+    "extinction_date": 2014,
+    "range": "Nuevo León, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Clear Lake splittail",
+    "scientific name": "Pogonichthys ciscoides",
+    "extinction_date": "1970s",
+    "range": "Clear Lake, California",
+    "continent": "North America"
+  },
+  {
+    "common name": "Deepwater cisco",
+    "scientific name": "Coregonus johannae",
+    "extinction_date": 1952,
+    "range": "Great Lakes, Canada and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Durango shiner",
+    "scientific name": "Notropis aulidion",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Endorheic chub",
+    "scientific name": "Evarra tlahuacensis",
+    "extinction_date": 1983,
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Graceful priapella",
+    "scientific name": "Priapella bonita",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Grass Valley speckled dace",
+    "scientific name": "Rhinichthys osculus reliquus",
+    "extinction_date": 1938,
+    "range": "Lander County, Nevada",
+    "continent": "North America"
+  },
+  {
+    "common name": "Harelip sucker",
+    "scientific name": "Moxostoma lacerum",
+    "extinction_date": 1893,
+    "range": "Southeastern U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Las Vegas dace",
+    "scientific name": "Rhinichthys deaconi",
+    "extinction_date": 1986,
+    "range": "Vegas Valley, U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Least silverside",
+    "scientific name": "Chirostoma charari",
+    "extinction_date": 1957,
+    "range": "Mesa Central, Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Longjaw cisco",
+    "scientific name": "Coregonus alpenae",
+    "extinction_date": 1975,
+    "range": "Great Lakes, Canada and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Maryland darter",
+    "scientific name": "Etheostoma sellare",
+    "extinction_date": 1988,
+    "range": "Deer Creek, Maryland",
+    "continent": "North America"
+  },
+  {
+    "common name": "Mexican dace",
+    "scientific name": "Evarra bustamantei",
+    "extinction_date": 1983,
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Pahranagat spinedace",
+    "scientific name": "Lepidomeda altivelis",
+    "extinction_date": 1938,
+    "range": "Pahranagat Valley, Nevada",
+    "continent": "North America"
+  },
+  {
+    "common name": "Phantom shiner",
+    "scientific name": "Notropis orca",
+    "extinction_date": 1975,
+    "range": "Rio Grande Basin, Mexico and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Parras characodon",
+    "scientific name": "Characodon garmani",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Perrito de Parras",
+    "scientific name": "Cyprinodon latifasciatus",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Perrito de Sandia",
+    "scientific name": "Cyprinodon spp.",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Plateau chub",
+    "scientific name": "Evarra eigenmanni",
+    "extinction_date": 1983,
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Raycraft Ranch killifish",
+    "scientific name": "Empetrichthys latos concavus",
+    "extinction_date": "",
+    "range": "Raycraft Ranch, Nevada",
+    "continent": "North America"
+  },
+  {
+    "common name": "Rio Grande bluntnose shiner",
+    "scientific name": "Notropis simus simus",
+    "extinction_date": 1964,
+    "range": "Rio Grande Basin, Mexico and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Salado shiner",
+    "scientific name": "Notropis saladonis",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "San Marcos gambusia",
+    "scientific name": "Gambusia georgei",
+    "extinction_date": 1983,
+    "range": "San Marcos Spring, Texas",
+    "continent": "North America"
+  },
+  {
+    "common name": "Scioto madtom",
+    "scientific name": "Noturus trautmani",
+    "extinction_date": 1957,
+    "range": "Big Darby Creek, Ohio",
+    "continent": "North America"
+  },
+  {
+    "common name": "Shortnose cisco",
+    "scientific name": "Coregonus reighardi",
+    "extinction_date": 1985,
+    "range": "Great Lakes, Canada and U.S.",
+    "continent": "North America"
+  },
+  {
+    "common name": "Silver trout",
+    "scientific name": "Salvelinus agassizi",
+    "extinction_date": 1930,
+    "range": "Dublin Pond, New Hampshire",
+    "continent": "North America"
+  },
+  {
+    "common name": "Snake River sucker",
+    "scientific name": "Chasmistes muriei",
+    "extinction_date": "",
+    "range": "Snake River, Wyoming",
+    "continent": "North America"
+  },
+  {
+    "common name": "Stumptooth minnow",
+    "scientific name": "Stypodon signifer",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Tecopa pupfish",
+    "scientific name": "Cyprinodon nevadensis calidae",
+    "extinction_date": 1979,
+    "range": "Majavo Desert Springs, California",
+    "continent": "North America"
+  },
+  {
+    "common name": "Thicktail chub",
+    "scientific name": "Gila crassicauda",
+    "extinction_date": "1950s",
+    "range": "Central Valley of California",
+    "continent": "North America"
+  },
+  {
+    "common name": "Utah Lake sculpin",
+    "scientific name": "Cottus echinatus",
+    "extinction_date": 1928,
+    "range": "Utah Lake, Utah",
+    "continent": "North America"
+  },
+  {
+    "common name": "Villa Lopez pupfish",
+    "scientific name": "Cyprinodon ceciliae",
+    "extinction_date": "",
+    "range": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "common name": "Yellowfin cutthroat trout",
+    "scientific name": "Oncorhynchus clarki macdonald",
+    "extinction_date": "After 1903",
+    "range": "Twin Lakes, Colorado",
+    "continent": "North America"
+  }
+]
