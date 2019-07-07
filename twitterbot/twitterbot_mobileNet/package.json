@@ -10,11 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs": "0.0.1-security",
-    "node-fetch": "2.6.0",
-    "twit": "^2.1.1",
     "@tensorflow-models/mobilenet": "0.2.2",
     "@tensorflow/tfjs": "0.12.3",
-    "@tensorflow/tfjs-node": "0.1.9"
+    "@tensorflow/tfjs-node": "0.1.9",
+    "fs": "0.0.1-security",
+    "jpeg-js": "0.3.5",
+    "node-fetch": "2.6.0",
+    "twit": "^2.1.1"
   }
 }

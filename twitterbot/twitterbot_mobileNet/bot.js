@@ -6,13 +6,6 @@
 // Using the Twit node package
 // https://github.com/ttezel/twit
 var Twit = require('twit');
-const tf = require('@tensorflow/tfjs');
-require('@tensorflow/tfjs-node')
-var mobilenet = require('@tensorflow-models/mobilenet');
-
-// import * as mobilenet from '@tensorflow-models/mobilenet';
-// const mobilenet = require('@tensorflow-models/mobilenet')
-global.fetch = require('node-fetch')
 
 // Pulling all my twitter account info from another file
 var config = require('./config.js');
@@ -23,30 +16,62 @@ var T = new Twit(config);
 // For reading image files
 var fs = require('fs');
 
-loadModel();
+const tf = require('@tensorflow/tfjs')
+const mobilenet = require('@tensorflow-models/mobilenet');
+require('@tensorflow/tfjs-node')
 
-// // Classify the image.
-// const predictions = await model.classify(img);
-// // Start once
-// tweeter();
+const jpeg = require('jpeg-js');
 
-// Once every N milliseconds
-// setInterval(tweeter, 60*5*1000);
+const NUMBER_OF_CHANNELS = 3
 
-async function loadModel() {
-  // Load the model.
-  // mobilenet.path = `https://storage.googleapis.com/tfjs-models/tfjs/mobilenet_v1_1.0_224/model.json`
-  // const model = await mobilenet.load();
-  // console.log('model: ', model);
-
-  const path = "mobilenet/model.json"
-  const mn = new mobilenet.MobileNet(1, 1);
-  mn.path = `file://${path}`
-  await mn.load()
+const readImage = path => {
+  const buf = fs.readFileSync(path)
+  const pixels = jpeg.decode(buf, true)
+  return pixels
 }
 
+const imageByteArray = (image, numChannels) => {
+  const pixels = image.data
+  const numPixels = image.width * image.height;
+  const values = new Int32Array(numPixels * numChannels);
+
+  for (let i = 0; i < numPixels; i++) {
+    for (let channel = 0; channel < numChannels; ++channel) {
+      values[i * numChannels + channel] = pixels[i * 4 + channel];
+    }
+  }
+
+  return values
+}
+
+const imageToInput = (image, numChannels) => {
+  const values = imageByteArray(image, numChannels)
+  const outShape = [image.height, image.width, numChannels];
+  const input = tf.tensor3d(values, outShape, 'int32');
+
+  return input
+}
+
+const loadModel = async() => {
+  const mn = new mobilenet.MobileNet(1, 1);
+  mn.path = 'file://models/mobilenet/model.json'
+  await mn.load()
+  return mn
+}
+
+const start = async() => {
+  const image = readImage('images/cat.jpeg')
+  const input = imageToInput(image, NUMBER_OF_CHANNELS)
+  const mn_model = await loadModel()
+  const predictions = await mn_model.classify(input)
+  console.log('classification results:', predictions);
+  tweeter(JSON.stringify(predictions));
+}
+
+start();
+
 // Here is the bot!
-function tweeter() {
+function tweeter(predictions) {
   // Read the file made by Processing
   var b64content = fs.readFileSync('images/cat.jpeg', { encoding: 'base64' })
 
@@ -58,7 +83,7 @@ function tweeter() {
     // Now we can reference the media and post a tweet
     // with the media attached
     var mediaIdStr = data.media_id_string;
-    var params = { status: 'this is test from yining', media_ids: [mediaIdStr] }
+    var params = { status: predictions, media_ids: [mediaIdStr] }
     // Post tweet
     T.post('statuses/update', params, tweeted);
   };
@@ -72,5 +97,4 @@ function tweeter() {
       //console.log(response);
     }
   };
-
 }
