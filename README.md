@@ -21,3 +21,9 @@ Image Classifier with ml5.js
 ### 3. Twiiter bot + MobileNet
 Nodejs + tfjs-node: Twitter bot tweet the mobileNet result of an image
 [Code](./twitterbot/twitterbot_mobileNet)
+
+### 4. KNN Image Classifition
+[Code](./KNNImageClassification)
+- KNN Image Classifier Video
+- KNN Image Classifier Video + Sound
+- KNN Image Classifier Video + Square
