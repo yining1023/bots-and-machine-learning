@@ -3,6 +3,7 @@ let myBodyPix;
 let segment;
 let mybg;
 const option = {
+  "multiplier": 0.25,
   "outputStride": 8, // 8, 16, or 32, default is 16
   "segmentationThreshold": 0.3 // 0 - 1, defaults to 0.5 
 };
