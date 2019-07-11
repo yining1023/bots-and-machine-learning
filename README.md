@@ -27,3 +27,7 @@ Nodejs + tfjs-node: Twitter bot tweet the mobileNet result of an image
 - KNN Image Classifier Video
 - KNN Image Classifier Video + Sound
 - KNN Image Classifier Video + Square
+
+### 5. Serial communication between arduino and p5.js
+-  p5+arduino [Code](./p5+arduino)
+-  p5+arduino+mobileNet [Code](./p5+arduino+mobileNet)

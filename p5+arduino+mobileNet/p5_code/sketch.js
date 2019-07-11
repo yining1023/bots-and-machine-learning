@@ -12,13 +12,13 @@ function preload() {
 }
 
 function setup() {
+ myDiv = createDiv('...');
  createCanvas(400, 300);          // make the canvas
  serial = new p5.SerialPort();    // make a new instance of the serialport library
  serial.on('data', serialEvent);  // callback for when new data arrives
  serial.on('error', serialError); // callback for errors
  serial.open(portName);           // open a serial port
  myMobileNet.classify(myVideo, gotResults);
- myDiv = createDiv('...');
 }
 
 function serialEvent() {
