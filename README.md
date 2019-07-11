@@ -35,4 +35,4 @@ Nodejs + tfjs-node: Twitter bot tweet the mobileNet result of an image
 ### 6. PoseNet, BodyPix
 - PoseNet [Code](./posenet)
 - BodyPix [Code](./bodypix)
-- BodyPix with colorful body parts [Code](./bodypix-part)
+- BodyPix with colorful body parts [Code](./bodypix-parts)
