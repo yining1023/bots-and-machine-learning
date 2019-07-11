@@ -1,10 +1,15 @@
 let video;
 let myBodyPix;
 let segment;
+let mybg;
 const option = {
   "outputStride": 8, // 8, 16, or 32, default is 16
   "segmentationThreshold": 0.3 // 0 - 1, defaults to 0.5 
 };
+
+function preload() {
+  mybg = loadImage('./kitten.jpg');
+}
 
 function setup() {
   createCanvas(600, 400);
@@ -25,7 +30,7 @@ function gotResults(err, results) {
     // console.log(results);
     segment = results.maskBackground;
     background(0);
-    image(video, 0, 0, 600, 400);
+    image(mybg, 0, 0, 600, 400);
     image(segment, 0, 0, 600, 400);
     myBodyPix.segment(gotResults);
   }
