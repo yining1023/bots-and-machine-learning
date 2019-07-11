@@ -31,3 +31,8 @@ Nodejs + tfjs-node: Twitter bot tweet the mobileNet result of an image
 ### 5. Serial communication between arduino and p5.js
 -  p5+arduino [Code](./p5+arduino)
 -  p5+arduino+mobileNet [Code](./p5+arduino+mobileNet)
+
+### 6. PoseNet, BodyPix
+- PoseNet [Code](./posenet)
+- BodyPix [Code](./bodypix)
+- BodyPix with colorful body parts [Code](./bodypix-parts)
