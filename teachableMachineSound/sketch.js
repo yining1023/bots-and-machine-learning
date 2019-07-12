@@ -16,6 +16,5 @@ function gotResults(err, results) {
   if (results) {
     console.log(results);
     resultDiv.html('Result is: ' + results[0].label);
-    mySoundModel.classify(gotResults);
   }
 }
