@@ -36,3 +36,12 @@ Nodejs + tfjs-node: Twitter bot tweet the mobileNet result of an image
 - PoseNet [Code](./posenet)
 - BodyPix [Code](./bodypix)
 - BodyPix with colorful body parts [Code](./bodypix-parts)
+
+### 7. Teachable Machine
+- Image classifier [Code](./teachableMachineImage)
+- Sound classifier [Code](./teachableMachineSound)
+- Poses classifier [Code](./teachableMachinePoses)
+
+### 8. Runway
+- im2txt [Code](./runway-im2txt)
+- AttnGAN [Code](./runway-attnGAN)
