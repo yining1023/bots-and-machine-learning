@@ -2,6 +2,31 @@
 
 Syllabus for Bots and Machine Learning at The School of Machines, Making & Make Believe
 
+## Get started
+To run each examples, open your terminal, type in the following commands:
+```
+$ git clone https://github.com/yining1023/bots-and-machine-learning.git
+$ cd bots-and-machine-learning
+$ python -m SimpleHTTPServer     # $ python3 -m http.server (if you are using python 3)
+```
+Go to `localhost:8000` in your browser, you will see a directory list like this:
+- bodypix/
+- bodypix-parts/
+- codeInClass/
+- ImageClassification/
+- KNNImageClassification/
+- p5+arduino/
+- p5+arduino+mobileNet/
+- poseNet/
+- README.md
+- runway-attnGAN/
+- runway-im2txt/
+- teachableMachineImage/
+- teachableMachineSound/
+- twitterbot/
+
+Click into each topic, you will see the example for each topic.
+
 ### 1. Twitter bot
 Tweet text and image
 [Code](./twitterbot/twitterbot_image)
