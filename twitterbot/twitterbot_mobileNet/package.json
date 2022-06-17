@@ -14,7 +14,7 @@
     "@tensorflow/tfjs": "0.12.3",
     "@tensorflow/tfjs-node": "0.1.9",
     "fs": "0.0.1-security",
-    "jpeg-js": "0.3.5",
+    "jpeg-js": "0.4.4",
     "node-fetch": "2.6.0",
     "twit": "^2.1.1"
   }
