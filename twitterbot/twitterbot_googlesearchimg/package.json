@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "fs": "0.0.1-security",
-    "images-scraper": "^2.0.11",
+    "images-scraper": "^2.0.12",
     "puppeteer": "^1.18.1",
     "request": "^2.88.0",
     "twit": "^2.1.1"
